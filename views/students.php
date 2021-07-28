@@ -76,7 +76,7 @@ if(isset($_POST["submit"]))
           <th scope="col">ID</th>
           <th scope="col">Last_Name</th>
           <th scope="col">First_Name</th>
-          <th scope="col">_Name</th>
+          <th scope="col">Middle_Name</th>
           <th scope="col">Course</th>
         </tr>
       </thead>
